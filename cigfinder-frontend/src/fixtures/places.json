@@ -1,0 +1,80 @@
+[
+  {
+    "place_id": "pst_shell_copa",
+    "name": "Posto Shell Copacabana",
+    "address": "Av. Atlântica, 3150 - Copacabana, Rio de Janeiro, RJ",
+    "google_rating": 4.2,
+    "cig_rating": 4.5,
+    "latitude": -22.9703,
+    "longitude": -43.1850,
+    "distance_km": 1.2,
+    "open_status": "OPEN",
+    "available_brands": ["marlboro", "lucky_strike", "dunhill", "parliament"],
+    "available_accessories": ["isqueiro", "seda", "piteira"]
+  },
+  {
+    "place_id": "pst_ipiranga_ipanema",
+    "name": "Posto Ipiranga Ipanema",
+    "address": "Rua Visconde de Pirajá, 330 - Ipanema, Rio de Janeiro, RJ",
+    "google_rating": 3.8,
+    "cig_rating": 3.5,
+    "latitude": -22.9845,
+    "longitude": -43.2035,
+    "distance_km": 2.5,
+    "open_status": "OPEN",
+    "available_brands": ["marlboro", "lucky_strike"],
+    "available_accessories": ["isqueiro"]
+  },
+  {
+    "place_id": "cnv_botafogo",
+    "name": "Conveniência Praia de Botafogo",
+    "address": "Praia de Botafogo, 400 - Botafogo, Rio de Janeiro, RJ",
+    "google_rating": 4.0,
+    "cig_rating": 4.2,
+    "latitude": -22.9432,
+    "longitude": -43.1800,
+    "distance_km": 3.1,
+    "open_status": "CLOSED",
+    "available_brands": ["marlboro", "dunhill", "camel"],
+    "available_accessories": ["isqueiro", "dechavador"]
+  },
+  {
+    "place_id": "tvb_leblon",
+    "name": "Tabacaria Leblon",
+    "address": "Av. Ataulfo de Paiva, 1079 - Leblon, Rio de Janeiro, RJ",
+    "google_rating": 4.8,
+    "cig_rating": 4.9,
+    "latitude": -22.9834,
+    "longitude": -43.2240,
+    "distance_km": 1.8,
+    "open_status": "OPEN",
+    "available_brands": ["marlboro", "lucky_strike", "dunhill", "parliament", "camel", "winston"],
+    "available_accessories": ["isqueiro", "seda", "piteira", "dechavador", "cinzeiro"]
+  },
+  {
+    "place_id": "banca_tijuca",
+    "name": "Banca da Tijuca",
+    "address": "Av. Nossa Senhora de Copacabana, 660 - Tijuca, Rio de Janeiro, RJ",
+    "google_rating": 4.1,
+    "cig_rating": 3.8,
+    "latitude": -22.9305,
+    "longitude": -43.2334,
+    "distance_km": 4.2,
+    "open_status": "OPEN",
+    "available_brands": ["marlboro", "lucky_strike", "hollywood", "free"],
+    "available_accessories": ["isqueiro", "charuto"]
+  },
+  {
+    "place_id": "quiosque_leme",
+    "name": "Quiosque do Leme",
+    "address": "Av. Atlântica, 500 - Leme, Rio de Janeiro, RJ",
+    "google_rating": 4.3,
+    "cig_rating": 4.1,
+    "latitude": -22.9639,
+    "longitude": -43.1690,
+    "distance_km": 0.9,
+    "open_status": "OPEN",
+    "available_brands": ["marlboro", "parliament", "kent"],
+    "available_accessories": ["isqueiro", "piteira"]
+  }
+] 
